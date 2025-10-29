@@ -155,3 +155,6 @@ A limpeza, padronização e análise inicial de dados garantem maior **confiabil
 └── imgs/
     └── histograma_valor_medio.png
 ```
+</div>
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=30,30,30&reversal=true&section=footer" />
